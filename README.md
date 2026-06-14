@@ -1,4 +1,4 @@
-# DataPrep AI: Data Science Interview Bot 🤖
+# 🎯 InterviewPilot AI — Adaptive Engineering Assessor
 
 DataPrep AI is an interactive full-stack interview assistant designed to help students test, practice, and sharpen their core concepts in Artificial Intelligence, Machine Learning, and Data Science. 
 
