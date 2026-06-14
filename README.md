@@ -96,7 +96,7 @@ Performance Analytics
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/InterviewPilot-AI.git
+git clone https://github.com/Rutuja14417/InterviewPilot-AI.git
 cd InterviewPilot-AI
 ```
 
